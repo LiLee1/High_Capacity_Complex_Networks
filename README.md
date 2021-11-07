@@ -1,3 +1,5 @@
+# 论文中提出了高容量复杂卷积神经网络，使用的是portch！
+
 # High_Capacity_Complex_Networks
 ## About
 Submitted to ICASSP 2021, "HIGH-CAPACITY COMPLEX CONVOLUTIONAL NEURAL NETWORKS FOR I/Q MODULATION CLASSIFICATION".
